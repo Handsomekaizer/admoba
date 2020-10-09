@@ -1,2 +1,2 @@
 # Online-Shopping
-this is just for testing
+admob. its a interstitial admob vieew
